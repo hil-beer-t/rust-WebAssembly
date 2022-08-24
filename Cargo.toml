@@ -1,5 +1,5 @@
 [package]
-name = "rust-webAssembly"
+name = "rust_web_assembly"
 version = "0.1.0"
 edition = "2021"
 
